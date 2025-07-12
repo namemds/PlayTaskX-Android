@@ -13,7 +13,7 @@ public class GLMService {
 
     private static final String BASE_URL = "https://open.bigmodel.cn/";
     // TODO: 换成你的真实 API Key，切勿泄露到公网仓库
-    private static final String API_KEY = "472fbe366d2046e9abae409a28d4aae5.We7P6G7gdiW7hKtn";
+    private static final String API_KEY = "替换为你的API Key";
 
     private static GLMApi instance;
 
