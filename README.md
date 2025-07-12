@@ -24,3 +24,5 @@ private static final String API_KEY = "替换为你的API Key";
 将 "替换为你的API Key" 替换为你自己的智谱清言 API Key（登录 https://open.bigmodel.cn/usercenter/proj-mgmt/apikeys 获取）。
 ### 3.编译运行
 如需使用悬浮球功能（AI对话），请授予“悬浮窗权限”。
+## 致谢
+本项目基于 [Xiaofeng Qiu](https://github.com/qxf-72) 的开源代码修改而来，感谢原作者的贡献。
