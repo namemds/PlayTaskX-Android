@@ -152,7 +152,7 @@ public class MeViewFragment extends Fragment {
             builder.setNegativeButton("跳转到Github项目仓库", new DialogInterface.OnClickListener() {
                 @Override
                 public void onClick(DialogInterface dialog, int which) {
-                    Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/qxf-72/Playtask"));
+                    Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/namemds/PlayTaskX-Android"));
                     startActivity(intent);
                     dialog.dismiss();
                 }
